@@ -1,4 +1,4 @@
-# Mohamed Abdullah Qarni Mohamed — محمد عبد الله قارني محمد
+# Mohamed Abdullah Qarni Mohamed — محمد عبد الله قرني محمد
 
 <!-- Animated typing header -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&size=28&duration=3000&pause=1000&color=FFFFFF&background=00599C00&vCenter=true&lines=%D9%85%D8%AD%D9%85%D8%AF+%D8%B9%D8%A8%D8%AF+%D8%A7%D9%84%D9%84%D9%87+%D9%82%D8%A7%D8%B1%D9%86%D9%8A+%D9%85%D8%AD%D9%85%D8%AF;Backend+Developer+%7C+Database+Designer" alt="Typing Header" />
