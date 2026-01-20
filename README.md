@@ -1,61 +1,56 @@
-<div align="center">
+<div align="center" width="50">  
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/><br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%"/><br>
+<h1>Hi, I'm Mohamed Abdallah 👋</h1>
+<h3>Back-End Developer | AI Group Member at Ministry of Youth and Sports</h3>
 
-<h1>Hi 👋, I'm Mohamed Abdullah</h1>
-<h3>Backend Developer | Business Information Systems Student</h3>
+<details>  
+<p><strong> <summary> 🎧 Currently Coding & Vibing to : </summary> </strong></p>
+</details>  
 
-<p>
-🚀 Backend Developer passionate about building scalable systems<br>
-🤖 Member of Artificial Intelligence Community – Ministry of Youth & Sports (Egypt)<br>
-🎓 Business Information Systems – Level 4
-</p>
+ <br>
+</div>  
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat&color=orange)
+<hr>
 
-</div>
-
----
-
-## 🧑‍💻 About Me
-
-- 💻 Backend Developer specialized in **Databases & Server-side logic**
-- 🧠 Strong background in **Algorithms & OOP**
-- 🤖 Interested in **Artificial Intelligence & Data Analysis**
-- 🏗️ Love building clean **APIs & Backend Architectures**
-- 🌱 Always learning and improving my problem-solving skills
-
----
-
-## 🚀 Tech Stack & Tools
-
-### 🔹 Programming Languages
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-
-### 🔹 Databases
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
-
-### 🔹 Backend & Tools
-![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
-
----
-
-## 🧩 Code Style (Backend Mindset)
-
-```csharp
-class MohamedAbdullah : BackendDeveloper
-{
-    public string[] Languages = 
-    { 
-        "Python", "C++", "C#", "PHP", "SQL Server" 
-    };
-
-    public string Focus = "Clean Architecture & Problem Solving";
+// tools_I_use organized  
+  
+class About extends Mohamed {   
+  const myTools = {    
+    "ProgrammingLanguages" : { "Python", "C++", "C#", "PHP" },  
+    "Database" : { "SQL Server", "MySQL" },  
+    "Specialization" : { "Back-End Development", "Artificial Intelligence" },
+    "Editors" : { "Visual Studio", "VS Code", "PyCharm" },  
+    "Platforms" : { "Windows", "Linux" },  
+    "OtherTools" : { "Git", "GitHub", "Postman" }  
+  };  
 }
+
+<br>
+
+<img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently focused on **Advanced AI & Back-End Architecture**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="15%" /><br>
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" /> &nbsp; Active Member of the **AI Group** at the Ministry of Youth and Sports. <br>
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" /> &nbsp; Ask me about **System Design, Database Optimization, or AI integration**. <br>
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Let's connect on LinkedIn or GitHub. <br>
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" /> &nbsp; Fun fact: I balance between the logic of Back-End and the magic of AI.<br>
+
+<div align="center" >  
+<a href="https://github.com/YOUR_USERNAME">  
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=nord" width="48%">  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=nord" width="48%">  
+</a>  
+
+<hr>
+Code Cycle<br>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Bug hunting!"/>  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="Deploying!"/>  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="AI is doing the work!"/><br> 
+</div>
