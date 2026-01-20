@@ -49,7 +49,7 @@ Back-End Developer | Information Systems Student
 ## 🔗 Accounts
 
 <p>
-<a href="mailto:your_email@gmail.com">
+<a href="mailto:your_m2651602@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/YOUR_LINK">
