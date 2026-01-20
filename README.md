@@ -25,18 +25,16 @@
 ---
 
 <h1 align="center">
- Mohamed Abdullah
+Mohamed Abdullah
 </h1>
 
 <h3 align="center">
 Back-End Developer | Information Systems Student
 </h3>
 
-
-
 ---
 
-##  About Me
+## 👨‍💻 About Me
 
 - 💻 Back-End Developer specialized in **Server-side Development**
 - 🗄️ Strong experience with **Databases & SQL Server**
@@ -50,14 +48,11 @@ Back-End Developer | Information Systems Student
 
 <p>
 <a href="mailto:m2651602@gmail.com">
-  <img
-    src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/YOUR_LINK">
+
+<a href="https://www.linkedin.com/in/mohamed-abdullah-295ba1353">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://stackoverflow.com/users/YOUR_ID">
-  <img src="https://img.shields.io/badge/StackOverflow-F58025?style=flat&logo=stackoverflow&logoColor=white"/>
 </a>
 </p>
 
