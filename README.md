@@ -29,7 +29,7 @@
 </h1>
 
 <h3 align="center">
-Back-End Developer | Business Information Systems Student
+Back-End Developer | Information Systems Student
 </h3>
 
 
@@ -42,7 +42,7 @@ Back-End Developer | Business Information Systems Student
 - 🗄️ Strong experience with **Databases & SQL Server**
 - 🧠 Solid understanding of **OOP & Data Structures**
 - 🤖 Member of **Artificial Intelligence Community – Ministry of Youth & Sports**
-- 🎓 Business Information Systems – Level 4
+- 🎓 Information Systems – Level 4
 
 ---
 
