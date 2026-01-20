@@ -1,18 +1,42 @@
+<div align="center">
+
+<img 
+  src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" 
+  width="60%" 
+  alt="Hello Coders"
+/>
+
+<br><br>
+
+<img 
+  src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" 
+  width="40%" 
+  alt="Developer at work"
+/>
+
+<br><br>
+
+<img 
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Backend+Developer;C%23+%7C+SQL+Server+%7C+OOP;AI+Community+Member;Always+Learning+and+Building"
+ />
+
+</div>
+
+---
+
 <h1 align="center">
-Hi 👋, I'm Mohamed Abdullah
+ Mohamed Abdullah
 </h1>
 
 <h3 align="center">
 Back-End Developer | Business Information Systems Student
 </h3>
 
-<p align="center">
-Cairo, Egypt 🇪🇬
-</p>
+
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 - 💻 Back-End Developer specialized in **Server-side Development**
 - 🗄️ Strong experience with **Databases & SQL Server**
@@ -59,23 +83,15 @@ Cairo, Egypt 🇪🇬
 
 ---
 
-## 📊 GitHub Stats
+## 🧩 Backend Mindset
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark" width="48%"/>
-</p>
+```csharp
+class MohamedAbdullah : BackendDeveloper
+{
+    public string[] Languages =
+    {
+        "C#", "C++", "Python", "PHP", "SQL Server"
+    };
 
----
-
-## 🚀 Current Focus
-
-- Learning **Entity Framework Core**
-- Improving **Backend Architecture**
-- Building real-world **CRUD & API projects**
-
----
-
-## ⚡ Fun Fact
-
-> Backend developers make things work… even if no one sees it 😉
+    public string Focus = "Clean Architecture & Scalable Systems";
+}
