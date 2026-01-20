@@ -34,7 +34,7 @@ Back-End Developer | Information Systems Student
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 - 💻 Back-End Developer specialized in **Server-side Development**
 - 🗄️ Strong experience with **Databases & SQL Server**
@@ -46,10 +46,15 @@ Back-End Developer | Information Systems Student
 
 ## 🔗 Accounts
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:m2651602@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-abdullah-295ba1353)
+<p>
+<a href="mailto:m2651602@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
+</a>
 
-
+<a href="https://www.linkedin.com/in/mohamed-abdullah-295ba1353">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+</a>
+</p>
 
 ---
 
